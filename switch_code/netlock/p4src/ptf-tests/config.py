@@ -1,0 +1,15 @@
+ADM_PORT                = 7777
+LK_PORT                 = 8888
+REPLY_PORT              = 8889
+DROP_PORT               = 9999
+ACQUIRE_LOCK            = 0
+RELEASE_LOCK            = 1
+SHARED_LOCK             = 0
+EXCLUSIVE_LOCK          = 1
+COUNT_MAX               = 16384
+NUM_LOCKS               = 16384
+LENGTH_ARRAY            = 16384
+SHRINK                  = 1
+MODIFY                  = 2
+DEDICATED_SERVER_IP     = 101
+CONTROLLER_IP           = 102
